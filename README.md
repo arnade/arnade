@@ -1,65 +1,7 @@
-<h1 align="center">Hi 👋, I'm Arnau</h1>
-<p align="center">
-  <strong>IT Systems & Networks Technician | Web Application Development Student (45% Completed)</strong>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=teu-usuari-de-github&label=Profile%20views&color=0e75b6&style=flat" alt="arnau" />
-</p>
-
----
-
-### 🔭 About Me
-Professional focused on combining infrastructure knowledge with modern web development. Currently strengthening my skills in full-stack technologies while leveraging my background in systems and networking.
-
----
-
-### 🛠️ Languages and Tools
-
-#### **Development & Databases**
-<p align="left">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="45"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
-  </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="45" height="45"/>
-  </a>
-  <a href="https://golang.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="45" height="45"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45"/>
-  </a>
-</p>
-
-#### **Infrastructure & DevOps**
-<p align="left">
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="45" height="45"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/>
-  </a>
-</p>
-
----
-
-<!-- ### 🤝 Connect with me
- <p align="left">
-  <!-- Afegeix aquí els teus enllaços si vols
-  <a href="mailto:el-teu-correu@exemple.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://linkedin.com/in/el-teu-perfil" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>-->
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=soft&color=0:050A0F,45:111A2E,100:050A0F&height=210&section=header&text=Hi%20I'm%20Arnau&fontSize=70&fontColor=00D1FF&animation=twinkling" /> </p> <p align="center"> <img src="https://img.shields.io/badge/ROLE-IT%20SYSTEMS-00D1FF?style=for-the-badge&logo=target&logoColor=050A0F" /> <img src="https://img.shields.io/badge/STUDIES-DAW%20STUDENT-7000FF?style=for-the-badge&logo=bookstack&logoColor=white" /> <img src="https://img.shields.io/badge/PROGRESS-45%25-00FF85?style=for-the-badge&logo=progress&logoColor=050A0F" /> </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:050A0F,50:00D1FF,100:7000FF&height=2&section=header" /> </p>
+🌑 Dashboard Statistics
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=arnade&show_icons=true&theme=dark&bg_color=050A0F&title_color=00D1FF&text_color=FFFFFF&icon_color=00FF85&hide_border=true&rank_icon=github" width="48%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnade&layout=compact&theme=dark&bg_color=050A0F&title_color=7000FF&text_color=FFFFFF&hide_border=true" width="45%" /> </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7000FF,50:00D1FF,100:050A0F&height=2&section=header" /> </p>
+💻 System Stack
+<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,php,go,mysql,linux,docker,git&theme=dark&perline=9" /> </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:050A0F,50:00FF85,100:7000FF&height=2&section=header" /> </p>
+📈 Contribution Radar
+<p align="center"> <img src="https://streak-stats.demolab.com?user=arnade&theme=dark&background=050A0F&ring=00D1FF&fire=00D1FF&currStreakLabel=00D1FF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&hide_border=true" width="100%" /> </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050A0F,50:7000FF,100:00D1FF&height=110&section=footer&bgHeight=0" /> </p>
